@@ -1,2 +1,3 @@
-# axu-strapi
-CMS内容管理平台
+# Strapi application
+
+A quick description of your strapi application
